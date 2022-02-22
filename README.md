@@ -1,2 +1,3 @@
-# Click_face
- photo view
+# Click Face
+ 
+> This is a photo view App.
