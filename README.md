@@ -1,3 +1,3 @@
 # Click Face
  
-> This is a photo view App.
+> This is a photo viewing App.
